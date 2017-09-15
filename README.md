@@ -2,6 +2,10 @@
 
 A simple analog watch face with Dark Side of the Moon skin
 
+Follow Us
+-----------------
+ - [Google Play] (https://play.google.com/store/apps/details?id=com.feragusper.darkfaceofthemoon) 
+
 Screenshot
 -----------------
 ![Watchface](/etc/watchface.png?raw=true)
